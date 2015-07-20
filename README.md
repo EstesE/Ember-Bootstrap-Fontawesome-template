@@ -2,6 +2,8 @@
 
 This is a starting point for Emberjs projects using Bootstrap and Fontawesome.
 
+***Brocfile.js*** has been replaced by ***ember-cli-build.js***, [read more here](https://github.com/ember-cli/ember-cli/blob/master/TRANSITION.md).
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
